@@ -6,6 +6,8 @@ This kid named Galaxy thought that he could scam people without getting his prog
 KeyAuth->
 
 App Name: Galaxy Woofer
+
 Owner ID: oVgAULGd6v
+
 App Secret: 485c41282457e9be906a22d6eb557335e6493d2a3ecaff7cd3df02b407289941
 
